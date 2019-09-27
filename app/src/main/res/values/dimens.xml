@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_margin_min">@dimen/_4sdp</dimen>
+    <dimen name="app_margin">@dimen/_8sdp</dimen>
+    <dimen name="app_margin_max">@dimen/_12sdp</dimen>
+
+    <dimen name="app_text_min">@dimen/_6ssp</dimen>
+    <dimen name="app_text_min_medium">@dimen/_7sdp</dimen>
+    <dimen name="app_text_medium">@dimen/_8ssp</dimen>
+    <dimen name="app_text_regular_medium">@dimen/_9sdp</dimen>
+    <dimen name="app_text_regular">@dimen/_10ssp</dimen>
+    <dimen name="app_text_max">@dimen/_12ssp</dimen>
+    <dimen name="app_text_regular_large">@dimen/_13ssp</dimen>
+    <dimen name="app_text_large">@dimen/_14ssp</dimen>
+    <dimen name="header_text_size">@dimen/_14ssp</dimen>
+
+    <dimen name="app_padding_min">@dimen/app_margin_min</dimen>
+    <dimen name="app_padding">@dimen/app_margin</dimen>
+    <dimen name="app_padding_max">@dimen/app_margin_max</dimen>
+
+    <dimen name="app_card_elevation">2dp</dimen>
+    <dimen name="app_card_corner_radius">2dp</dimen>
+    <dimen name="app_header_name_size">@dimen/app_text_regular_medium</dimen>
+
+</resources>
